@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Softwaretechnikpraktikum Dog-Spiel Gruppe 2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    * {
+      margin: 0;
+    }
+    /* hr is for the footer,so it stays at the bottom of the page */
+    hr {
+      display: block;
+      height: 1px;
+      border: 0;
+      border-top: 1px solid #ccc;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* the header is for the whole top section of the website where you can navigate */
+    header {
+      position: sticky;
+      top: 0;
+      background-color: white;
+      font-size: 30px;
+    }
+    /* the logo is so that the logo is not directly in the corner of the website*/
+    logo {
+      display: inline-flex;
+      margin-left: 15px;
+      margin-top: 15px;
+      margin-bottom: 0;
+      margin-right: 15px;
+    }
+    /* nav is for the different navigations, so that they are not directly next to eachother and in order to change theire appeareance */
+    nav {
+      display: inline-flex;
+      background-color: white;
+      font-size: large;
+      margin-left: 20px;
+    }
+    /* h1 is in HTML one of 6 different heading styles with 1 beeing biggest and 6 beeing smallest*/
+    h1 {
+      color: darkred;
+      vertical-align: center;
+      text-align: center;
+    }
+    h2{
+      vertical-align: center;
+      text-align: center;
+    }
+    /* footer is for the bottom of the page */
+    footer {
+      vertical-align: center;
+      text-align: center;
+    }
+    p {
+      color: black;
+      vertical-align: center;
+      text-align: center;
+    }
+    label{
+      display: block;
+    }
+    input[type="submit"],
+    label{
+      margin-top: 1rem;
+    }
+    .center{
+      margin-left: auto;
+      margin-right: auto;
+    }
+    @media only screen and (max-width: 280px) {
+
+
+
+
+    }
+  </style>
+</head>
+
+
+<body>
+<header>
+  <logo>
+    <a href="Website.html">
+      <img src= "Logo_Transparent.png" alt="Bild" height = 30px >
+    </a>
+  </logo>
+    <nav>
+      <a href="FAQ.html">FAQ</a>
+    </nav>
+    <nav>
+      <a href="Download.html">Download</a>
+    </nav>
+  <nav>
+    <form>
+    <div>
+    <input type="password"
+           id="pass"
+           name="password"
+           placeholder="Developer Code"
+           size="20"
+           required
+           pattern="[0-9a-zA-Z!-$^+exclude Duplicate]"
+    />
+    <input type="submit" value="Log In" onclick="checkPass();" />
+    <!--Function to check password the already set password is admin-->
+    <script type="text/javascript">
+      function checkPass() {
+        var confirmPassword = "Gj<UeiXgARK}8cJtrFky";
+        var password = document.getElementById("pass").value;
+        if (password == confirmPassword) {
+          window.location="Developer Download.html";
+        }
+        else{
+          alert("Falsche Passwort.");
+        }
+      }
+    </script>
+    </div>
+  </form>
+  </nav>
+  <hr>
+</header>
+
+
+<h1 class="center">Downloads</h1>
+<br>
+<h2>Download Android</h2>
+<table class="center">
+  <tr>
+    <th>Version</th>
+    <th>System</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>Android</td>
+    <td></td>
+  </tr>
+</table>
+<br>
+<h2>Download PC</h2>
+<table class="center">
+  <tr>
+    <th>Version</th>
+    <th>System</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>Windows</td>
+    <td></td>
+  </tr>
+</table>
+
+
+<hr>
+<footer>
+  <a href="Impressum.html">Impressum</a>
+  <p>© 2023 by Alexander Thüte</p>
+</footer>
+</body>
+</html>
