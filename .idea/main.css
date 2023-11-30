@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+}
+/* hr is for the footer,so it stays at the bottom of the page */
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 0;
+    padding: 0;
+}
+
+/* the header is for the whole top section of the website where you can navigate */
+header {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    font-size: 30px;
+}
+/* the logo is so that the logo is not directly in the corner of the website*/
+logo {
+    display: inline-flex;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 0;
+    margin-right: 15px;
+}
+/* nav is for the different navigations, so that they are not directly next to eachother and in order to change theire appeareance */
+nav {
+    display: inline-flex;
+    background-color: white;
+    font-size: large;
+    margin-left: 20px;
+}
+/* h1 is in HTML one of 6 different heading styles with 1 beeing biggest and 6 beeing smallest*/
+h1 {
+    color: darkred;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+/* footer is for the bottom of the page */
+footer {
+    vertical-align: center;
+    text-align: center;
+}
+p {
+    color: black;
+    vertical-align: center;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.p1{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.info img{
+    float:left;
+    width: 100%;
+    margin-left: 0em;
+}
+.info {
+    margin: 2em auto;
+}
+.info p {
+    margin: 0;
+}
+dl{
+    font-size: 1.5em;
+}
+
+@media only screen and (max-width: 280px) {
+    p {
+        color: black;
+        vertical-align: center;
+    }
+
+
+}

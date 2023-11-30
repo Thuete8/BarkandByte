@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e479d16-ca6b-43af-84bb-8260e9893cc6" name="Changes" comment="Website 2.0">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/BarkandByte-build.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/BarkandByte-orchestration.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-to-ionos.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BarkandByte.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/.htpasswd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/55274129_deta_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/Developer Code Generierung/Pass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/Developer Code Generierung/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/Developer Code Generierung/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/Karte2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/doc/TOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/doc/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/doc/extend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/doc/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/doc/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/doc/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/doc/misc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/doc/usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/humans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/js/vendor/modernizr-3.11.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/tile-wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website HTML/tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ausrichter-Gui Drag and Drop.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ausrichter-Gui.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beobachter Gui Anmeldung.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beobachter Gui Warten auf Spielbeginn.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Developer Download.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Download.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impressum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logo_Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logo_Transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spieler Lobby Gui.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Thuete8&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="464a944b-8217-44b3-9c58-f33be1e4edd6" />
+        <option name="url" value="https://github.com/Thuete8/BarkandByte.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2YsB0vxk1R0S01NTfzCJ9uVTeIe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/alexa/BarkandByte",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\BarkandByte" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BarkandByte" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BarkandByte" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e479d16-ca6b-43af-84bb-8260e9893cc6" name="Changes" comment="Website 2.0" />
+      <created>1701304186729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701304186729</updated>
+      <workItem from="1701304187823" duration="1546000" />
+    </task>
+    <task id="LOCAL-00001" summary="Website 2.0">
+      <option name="closed" value="true" />
+      <created>1701304218968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701304218968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Website 2.0">
+      <option name="closed" value="true" />
+      <created>1701304773251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701304773251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Website 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Website 2.0" />
+  </component>
+</project>
